@@ -3,7 +3,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Sharoff\\SimpleXml\\Helper": "src/"
+      "Sharoff\\SimpleXml\\Helper\\": "src/"
     }
   },
   "description": "Класс для преобразования php массива в SimpleXmlElement или в XML структуру",

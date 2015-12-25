@@ -1,0 +1,22 @@
+{
+  "name": "sharoff/helper-simple-xml",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Sharoff\\SimpleXml\\Helper": "src/"
+    }
+  },
+  "description": "Класс для преобразования php массива в SimpleXmlElement или в XML структуру",
+  "keywords": [],
+  "homepage": "https://sharoff.org",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Сергей Кокшаров",
+      "email": "info@sharoff.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  }
+}
